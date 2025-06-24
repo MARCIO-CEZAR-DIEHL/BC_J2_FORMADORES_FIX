@@ -13,7 +13,7 @@ header {
     font-size: 60px;
     text-align: center;
    
-    border-bottom:dashed 8px #a302a356;
+    border-bottom: solid 10px red;
 
    /* border-bottom:dashed 8px #8B008B; */
 
