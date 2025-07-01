@@ -35,5 +35,13 @@ section {
 background-color: rgb(13, 60, 189);
  padding-bottom: 80px;
  padding-top: 80PX;
+  display: flex;
+ justify-content:center;
+
+}
+
+.chamada-texto  {
+
+margin-right: 10%;
 
 }
